@@ -5,6 +5,6 @@ Wenn die Digitalisierung auf viele kleine und mittlere Unternehmen trifft müsse
 
 Aber würden wir nicht viel weiter kommen, wenn tausend Architekten für einmal nicht tausend Varianten der selben Lösung erarbeiten würden sondern gemeinsam ihre digitalen Werkzeuge entwickeln? So bliebe mehr Zeit für unsere Kernkompetenz, der Entwurf und die Umsetzung von Gebäuden.
 
-Dies ist der Versuch einer digitalen Werkzeugsammlung. Eigene Werkzeuge und Verbesserungen der hier gesammelten Werkzeugen sind willkommen. 
+Dies ist der Versuch einer digitalen Werkzeugsammlung. Eigene Werkzeuge und Verbesserungen der hier gesammelten Werkzeuge sind willkommen. 
 
 
